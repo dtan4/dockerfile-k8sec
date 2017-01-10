@@ -1,6 +1,6 @@
 # k8sec Docker Image
 
-https://quay.io/repository/dtan4/k8sec
+[![Docker Repository on Quay](https://quay.io/repository/dtan4/k8sec/status "Docker Repository on Quay")](https://quay.io/repository/dtan4/k8sec)
 
 Docker Image for [k8sec](https://github.com/dtan4/k8sec).
 Please see [k8sec Github repository](https://github.com/dtan4/k8sec) for more information about k8sec.
