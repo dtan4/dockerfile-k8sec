@@ -12,7 +12,7 @@ Please see [k8sec Github repository](https://github.com/dtan4/k8sec) for more in
 ## Supported Tags
 
 - `latest`
-  - k8sec 0.3.0
+  - k8sec 0.3.1
 
 ## Author
 
