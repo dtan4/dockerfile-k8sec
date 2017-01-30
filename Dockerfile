@@ -1,6 +1,6 @@
 FROM alpine:3.5
 
-ENV K8SEC_VERSION 0.3.0
+ENV K8SEC_VERSION 0.3.1
 
 RUN apk add --no-cache --update ca-certificates
 
